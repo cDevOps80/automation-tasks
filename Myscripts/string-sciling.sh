@@ -18,3 +18,4 @@ comment1
 name="is name is good name is bad name is normal is"
 
 echo ${name%is/isss}
+#
